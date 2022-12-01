@@ -91,9 +91,9 @@ section.data p.def{
 .dic{
     background-color: white;
     box-shadow: 2px 2px 12px 2px gray;
-    margin-left: 35rem;
-    margin-right: 35rem;
-    padding-bottom: 20rem;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    padding-bottom: 10rem;
     border-radius: 10px;
     margin-top: 5rem;
 }
